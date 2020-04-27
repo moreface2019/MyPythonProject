@@ -1,0 +1,5 @@
+print("Hello Python")
+print(100 + 200 + 300)
+print("1024*768=", 1024*768)
+name = input("input your name: ")
+print("Your name is " + name)
