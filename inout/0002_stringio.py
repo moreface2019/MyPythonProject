@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from io import StringIO
 
 print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>内存中读写str StringIO>>>>>>>>>>>>>>>>>>>>>>>>>>>>")

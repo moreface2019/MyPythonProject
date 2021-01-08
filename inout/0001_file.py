@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from datetime import datetime
 
 print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>文件读写 file-like Object>>>>>>>>>>>>>>>>>>>>>>>>>>>>")

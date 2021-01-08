@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import os
 from collections.abc import Iterable, Iterator
 

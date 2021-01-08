@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>错误 except & 打印 logging>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
 
 import logging

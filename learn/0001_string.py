@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 print("Hello Python", "测试中文是否乱码")
 # >>>Hello Python 测试中文是否乱码
 

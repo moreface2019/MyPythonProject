@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from io import BytesIO
 
 print(">>>>>>>>>>>>>>>>>>>>>>>>>>>>内存中读写bytes BytesIO>>>>>>>>>>>>>>>>>>>>>>>>>>>>")

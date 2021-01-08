@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 print("条件判断>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
 print("if elif else")
 
